@@ -1,8 +1,8 @@
 <!-- GitHub 프로필 첫 화면에 보이는 자기소개 -->
 ### 안녕하세요, 박성주입니다.
 
-회사에 개발자가 저 하나라서, 기획부터 배포까지 직접 합니다.
-연구소 사이트와 사내 업무 도구를 만들었고, 대학이 의뢰한 강사 양성 사이트를 설계부터 서버까지 혼자 개발했습니다.
+실제로 쓰이는 웹을 끝까지 만드는 개발자입니다.
+연구소 공식 사이트와 관리자 CMS를 만들어 운영하고 있고, 대학이 의뢰한 강사 양성 사이트를 설계부터 서버까지 개발했습니다.
 
 **포트폴리오** [sungjjoo.github.io/portfolio](https://sungjjoo.github.io/portfolio/)  
 **이메일** shim.never60@gmail.com
@@ -10,9 +10,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,nodejs,express,sqlite,python,c,arduino,git,github,java&perline=14" alt="HTML, CSS, JavaScript, TypeScript, Next.js, Node.js, Express, SQLite, Python, C, Arduino, Git, GitHub, Java">
 
 #### 주요 작업
-- **대학 강사 양성 누리집** (외부 의뢰, 2026): 로그인 분리, 신청 관리, 엑셀 내려받기. 사용자 화면 21개와 관리자 화면 13개
-- **[FOX AI 연구소 사이트](https://ai.foxconnect.kr)** (2026): 혼자 기획부터 운영까지. 커밋 103개, 모바일 용량 87% 감소
-- **업무 담당표 대시보드** (2026): Google Sheets를 저장소로 쓰는 사내 웹앱
+- **[FOX AI 연구소 사이트와 관리자 CMS](https://ai.foxconnect.kr)** (2026): 기획부터 운영까지. 커밋 152개, 직원이 코드 없이 내용을 고치는 CMS, 모바일 이미지 전송량 87% 절감
+- **대학 강사 양성 누리집** (외부 의뢰, 2026): 기능명세서 620줄, 화면 34개와 Express·SQLite 서버, 서버 기능 38개 항목 점검
+- **연구소 업무 스케줄러** (2026): Google Sheets를 저장소로 쓰는 서버 없는 팀 웹앱
 - **[SmartVision](https://github.com/sungJJoo/2025Capstone)** (캡스톤 2위, 2025): Raspberry Pi 5와 YOLOv8n으로 만든 시각장애인 보조 기기
 - **[영상 속 특정 인물 제거](https://github.com/zunobk/Haaaaaaaao)** (6인 팀, 2024): InsightFace 얼굴 인식과 YOLOv8 담당
 - **학부 팀 프로젝트** (2024): Plantify 스마트 화분(반도체 경진대회 은상), C언어 은행 관리 프로그램(장려상)
