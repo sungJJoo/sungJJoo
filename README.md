@@ -14,6 +14,7 @@
 - **[FOX AI 연구소 사이트](https://ai.foxconnect.kr)** (2026): 혼자 기획부터 운영까지. 커밋 103개, 모바일 용량 87% 감소
 - **업무 담당표 대시보드** (2026): Google Sheets를 저장소로 쓰는 사내 웹앱
 - **[SmartVision](https://github.com/sungJJoo/2025Capstone)** (캡스톤 2위, 2025): Raspberry Pi 5와 YOLOv8n으로 만든 시각장애인 보조 기기
+- **[영상 속 특정 인물 제거](https://github.com/zunobk/Haaaaaaaao)** (6인 팀, 2024): InsightFace 얼굴 인식과 YOLOv8 담당
 - **학부 팀 프로젝트** (2024): Plantify 스마트 화분(반도체 경진대회 은상), C언어 은행 관리 프로그램(장려상)
 
 #### 경력과 학력
