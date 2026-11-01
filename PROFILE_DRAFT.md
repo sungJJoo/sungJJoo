@@ -13,9 +13,9 @@
 - **[FOX AI 연구소 사이트와 관리자 CMS](https://ai.foxconnect.kr)** (2026): 기획부터 운영까지. 커밋 152개, 직원이 코드 없이 내용을 고치는 CMS, 모바일 이미지 전송량 87% 절감
 - **대학 강사 양성 누리집** (외부 의뢰, 2026): 기능명세서 620줄, 화면 34개와 Express·SQLite 서버, 서버 기능 38개 항목 점검
 - **연구소 업무 스케줄러** (2026): Google Sheets를 저장소로 쓰는 서버 없는 팀 웹앱
-- **[SmartVision](https://github.com/sungJJoo/2025Capstone)** (캡스톤 2위, 2025): Raspberry Pi 5와 YOLOv8n으로 만든 시각장애인 보조 기기
+- **[SmartVision](https://github.com/sungJJoo/2025Capstone)** (졸업 작품 2위, 2025): Raspberry Pi 5와 YOLOv8n으로 만든 시각장애인 보조 기기
 - **[영상 속 특정 인물 제거](https://github.com/zunobk/Haaaaaaaao)** (6인 팀, 2024): InsightFace 얼굴 인식과 YOLOv8 담당
-- **학부 팀 프로젝트** (2024): Plantify 스마트 화분(반도체 경진대회 은상), C언어 은행 관리 프로그램(장려상)
+- **학부 팀 프로젝트** (2024): Plantify 스마트 화분(팀장, 반도체 경진대회 은상), C언어 은행 관리 프로그램(팀장, 장려상)
 
 #### 경력과 학력
 - 폭스커넥트 대전 AI 연구소 연구원 (2025.07 ~ ing)
